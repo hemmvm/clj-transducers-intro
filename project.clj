@@ -1,6 +1,6 @@
 (defproject transducers-intro "0.1.0-SNAPSHOT"
   :description "transducers-intro"
-  :url "https://github.com/hemmvm/transducers-intro"
+  :url "https://github.com/hemmvm/clj-transducers-intro"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
